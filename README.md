@@ -18,16 +18,16 @@ This project is an end-to-end machine learning analysis of employee attrition fo
 
 ## Steps Covered
 
-1. **Data Quality Checks** — missing values, duplicates, data types
-2. **Exploratory Data Analysis (EDA)** — distributions, correlations, visualisations
-3. **K-Means Clustering** — segment employees who left into behavioural clusters
-4. **Class Imbalance Handling** — SMOTE oversampling on the minority (left) class
-5. **Model Training & Evaluation** — 5-fold stratified cross-validation across three classifiers:
+1. **Data Quality Checks:**  missing values, duplicates, data types
+2. **Exploratory Data Analysis (EDA):**  distributions, correlations, visualisations
+3. **K-Means Clustering:**  segment employees who left into behavioural clusters
+4. **Class Imbalance Handling:** SMOTE oversampling on the minority (left) class
+5. **Model Training & Evaluation:**  5-fold stratified cross-validation across three classifiers:
    - Logistic Regression
    - Random Forest
    - Gradient Boosting
-6. **Best Model Selection** — ROC/AUC curves, confusion matrices, classification reports
-7. **Retention Strategy Recommendations** — data-driven HR insights per cluster
+6. **Best Model Selection:** ROC/AUC curves, confusion matrices, classification reports
+7. **Retention Strategy Recommendations:**  data-driven HR insights per cluster
 
 ## Dataset
 
